@@ -23,3 +23,13 @@ cuotout + mixup
 
 
 ![5](https://user-images.githubusercontent.com/97939479/167333759-ea7098ae-e5c1-49f1-9917-eb07e0acf0fe.jpg)
+
+
+augmentation 하기 전: train set:1000 장 , validation set: 200장, test set:  200장 
+
+![6](https://user-images.githubusercontent.com/97939479/167334948-7da336dd-5d16-4bb7-a507-ad315f8250ea.jpg)
+
+augmentation 후 : train set: 2000장 (cutout + randaugment) ,  validation set: 200장, test set:  200장 
+
+![7](https://user-images.githubusercontent.com/97939479/167335505-5aac94f0-fab2-4430-bab9-6efb65fb9b26.jpg)
+
