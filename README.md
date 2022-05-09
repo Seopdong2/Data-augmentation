@@ -3,6 +3,7 @@
 ![img1](https://user-images.githubusercontent.com/97939479/167332770-dcaf7f35-aa56-4422-92e9-f051e3732e27.jpg)
 
 Overfitting은 학습 데이터(Training Set)에 대해 과하게 학습된 상황입니다. 따라서 학습 데이터 이외의 데이터에 대해선 모델이 잘 동작하지 못합니다. 학습 데이터가 부족하거나, 데이터의 특성에 비해 모델이 너무 복잡한 경우 발생합니다. Training Set에 대한 loss는 계속 떨어지는데, Test Set에 대한 loss는 감소하다가 다시 증가합니다.
+Overfitting을 막기위한 방법으로 data augmentation을 적용 해보았습니다.
 
 
 ## Data augmentation 종류
