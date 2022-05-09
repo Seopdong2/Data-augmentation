@@ -29,7 +29,7 @@ augmentation 하기 전: train set:1000 장 , validation set: 200장, test set: 
 
 ![6](https://user-images.githubusercontent.com/97939479/167334948-7da336dd-5d16-4bb7-a507-ad315f8250ea.jpg)
 
-augmentation 후 : train set: 2000장 (cutout + randaugment) ,  validation set: 200장, test set:  200장 
+augmentation 후 : train set: 3000장 (cutout(1000장) + randaugment(1000장)) ,  validation set: 200장, test set:  200장 
 
 ![7](https://user-images.githubusercontent.com/97939479/167335505-5aac94f0-fab2-4430-bab9-6efb65fb9b26.jpg)
 
